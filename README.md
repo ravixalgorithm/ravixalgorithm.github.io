@@ -113,38 +113,6 @@ Google CyberSecurity Scholar @GrowWithGoogle | Open Source | JAVA, DSA | FIGMA, 
 
 1. 🗣 Commented on [[issue-no]]([issue-url]) in [repo-path-name]([repo-url])
 
-### Github Stats
-<div align="center" style="display:inline-block">
-
-  ![](https://github-readme-stats.vercel.app/api?username=ravixalgorithm&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
-
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=ravixalgorithm&theme=tokyonight&hide_border=false)
-
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ravixalgorithm&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-  ![](https://github-readme-activity-graph.vercel.app/graph?username=ravixalgorithm&theme=tokyo-night)
-
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ravixalgorithm/ravixalgorithm/blob/main/icons/github-user-contribution-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ravixalgorithm/ravixalgorithm/blob/main/icons/github-user-contribution.svg" />
-  <img alt="github-snake" src="https://github.com/ravixalgorithm/ravixalgorithm/blob/main/icons/github-user-contribution.svg" />
-</picture>
-
-### Leetcode
-<div align="center">
-
-  ![LeetCode Stats](https://leetcode.card.workers.dev/ravixalgorithm?theme=auto&font=baloo&extension=null)
-
-</div>
-
-### Codeforces
-<div align="center">
-
-  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=ravixalgorithm)
-</div>
-
 <!-- Socials -->
 ### Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravixalgorithm/)
