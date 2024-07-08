@@ -22,14 +22,14 @@
 <details>
   <summary>
     <h1>
-      <img align="center" src="https://github.com/ravixalgorithm/ravixalgorithm.github.io/blob/main/about.png" width="37" />
+      <img align="center" src="/icons/about.png" width="37" />
     Resume
     </h1>
   </summary>
 
   <!-- Academics -->
   <h3>
-    <img align="center" src="https://github.com/ravixalgorithm/ravixalgorithm.github.io/blob/main/academics.png" width="29"/>
+    <img align="center" src="/icons/academics.png" width="29"/>
     Academics
   </h3>
   <span>
@@ -41,7 +41,7 @@
 
   <!-- Experience -->
   <h3>
-    <img align="center" src="https://github.com/ravixalgorithm/ravixalgorithm.github.io/blob/main/experience.png" width="29"/>
+    <img align="center" src="/icons/experience.png" width="29"/>
     Experience
   </h3>
   - **[Your Role] ** at [Company] | [Duration] - [Work Description]
@@ -61,7 +61,7 @@
 
 <!-- Tech Stack -->
 <h1>
-  <img align="center" src="https://github.com/ravixalgorithm/ravixalgorithm.github.io/blob/main/techstack.png" width="29"/>
+  <img align="center" src="/icons/techstack.png" width="29"/>
   Tech Stack
 </h1>
 <h3>language</h3>
@@ -79,7 +79,7 @@
 <details>
   <summary>
     <h2>
-      <img align="center" src="https://github.com/ravixalgorithm/ravixalgorithm.github.io/blob/main/projects.png" width="29"/>
+      <img align="center" src="/icons/projects.png" width="29"/>
       Projects
     </h2>
   </summary>
@@ -92,7 +92,7 @@
 </details>
 
 <h2>
-  <img align="center" src="https://github.com/ravixalgorithm/ravixalgorithm.github.io/blob/main/stats.png" width="32"/>
+  <img align="center" src="/icons/stats.png" width="32"/>
   Stats
 </h2>
 
@@ -107,7 +107,7 @@
 1. 🥳 Merged PR - [27](https://github.com/MicrosoftDocs/mslearn-challenge-project-create-mini-game-with-copilot/pull/27) - [MicrosoftDocs/mslearn-challenge-project-create-mini-game-with-copilot](https://github.com/MicrosoftDocs/mslearn-challenge-project-create-mini-game-with-copilot)
 2. 🥳 Merged PR - [4754](https://github.com/microsoft/STL/pull/4754) - [microsoft/STL](https://github.com/microsoft/STL)
 
-### <img align="center" src="https://github.com/ravixalgorithm/ravixalgorithm.github.io/blob/main/recent.png"  width="25"/> Recent Activity
+### <img align="center" src="/icons/recent.png"  width="25"/> Recent Activity
 
 1. 🗣 Commented on [[issue-no]]([issue-url]) in [repo-path-name]([repo-url])
 
