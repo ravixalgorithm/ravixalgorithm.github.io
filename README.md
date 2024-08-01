@@ -8,10 +8,9 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Ravi+Pratap+Singh+!;" />
 </h1>
+<img src="https://komarev.com/ghpvc/?username=ravixalgorithm&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
 <h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=ravixalgorithm&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
-  
-Targeting GSOC'25 and Other Open Source Events, Open Source Contributor
+  Targeting GSOC'25 and Other Open Source Events, Open Source Contributor
 </h2>
 
 <!--About-->
@@ -24,7 +23,6 @@ Targeting GSOC'25 and Other Open source Events, love attending the conferences, 
 <details>
   <summary>
     <h1>
-      <img align="center" src="https://github.com/ravixalgorithm/ravixalgorithm/blob/main/icons/about.png" width="37" />
     Resume (Click Here)
     </h1>
   </summary>
@@ -32,7 +30,6 @@ Targeting GSOC'25 and Other Open source Events, love attending the conferences, 
 
   <!-- Academics -->
   <h3>
-    <img align="center" src="https://github.com/ravixalgorithm/ravixalgorithm/blob/main/icons/academics.png" width="29"/>
     Academics
   </h3>
   <div>
@@ -45,7 +42,6 @@ Targeting GSOC'25 and Other Open source Events, love attending the conferences, 
 
   <!-- Experience -->
   <h3>
-    <img align="center" src="https://github.com/ravixalgorithm/ravixalgorithm/blob/main/icons/experience.png" width="29"/>
     Experience
   </h3>
   
@@ -90,7 +86,6 @@ Targeting GSOC'25 and Other Open source Events, love attending the conferences, 
 
 <!-- Tech Stack -->
 <h1>
-  <img align="center" src="https://github.com/ravixalgorithm/ravixalgorithm/blob/main/icons/techstack.png" width="29"/>
   Tech Stack
 </h1>
 <h3>language</h3>
@@ -110,7 +105,6 @@ Targeting GSOC'25 and Other Open source Events, love attending the conferences, 
 <details>
   <summary>
     <h2>
-      <img align="center" src="https://github.com/ravixalgorithm/ravixalgorithm/blob/main/icons/projects.png" width="29"/>
       Projects (Click Here)
     </h2>
   </summary>
@@ -125,7 +119,6 @@ Targeting GSOC'25 and Other Open source Events, love attending the conferences, 
 
 <!--Stats-->
 <h1>
-  <img align="center" src="https://github.com/ravixalgorithm/ravixalgorithm/blob/main/icons/stats.png" width="32"/>
   Stats
 </h1>
 
@@ -158,7 +151,7 @@ Targeting GSOC'25 and Other Open source Events, love attending the conferences, 
 
 
 <!--Recent Activities-->
-### <img align="center" src="https://github.com/ravixalgorithm/ravixalgorithm/blob/main/icons/recent.png"  width="25"/> Recent Activity
+### Recent Activity
 
 1. 🗣 Commented on [issue #7118](https://github.com/processing/p5.js/issues/7118) in [processing/p5.js](https://github.com/processing/p5.js)
 2. 🗣 Commented on [issue #534](https://github.com/breck7/pldb/issues/534) in [breck7/pldb](https://github.com/breck7/pldb)
